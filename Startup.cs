@@ -55,10 +55,9 @@ namespace ANOOSHEH_Library
 
             app.UseEndpoints(endpoints =>
             {
-            //endpoints.MapControllerRoute(
-               // name: "default",
-
-               // pattern: "{controller=Home}/{action = Index}/{ Id}");
+            endpoints.MapControllerRoute(
+               name: "default",
+               pattern: "{controller=Booklist}/{action = Index}/{ Id?}");
 
                endpoints.MapRazorPages();
             });
