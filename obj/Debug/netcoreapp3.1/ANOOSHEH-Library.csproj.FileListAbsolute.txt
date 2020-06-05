@@ -417,9 +417,6 @@ C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\bin\Debug\netcoreapp3.1\do
 C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
 C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\ANOOSHEH-Library.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\ANOOSHEH-Library.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\ANOOSHEH-Library.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\ANOOSHEH-Library.Views.pdb
 C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\ANOOSHEH-Library.dll
 C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\ANOOSHEH-Library.pdb
@@ -434,3 +431,9 @@ C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\Ra
 C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\Razor\Views\Blogpost\Details.cshtml.g.cs
 C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\Razor\Views\Blogpost\Edit.cshtml.g.cs
 C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\Razor\Views\Blogpost\Index.cshtml.g.cs
+C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\PC\Desktop\ANOOSHEH-Library\ANOOSHEH-Library\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Index.cshtml.g.cs

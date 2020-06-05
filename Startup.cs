@@ -6,10 +6,12 @@ using ANOOSHEH_Library.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+
 
 namespace ANOOSHEH_Library
 {
@@ -27,6 +29,7 @@ namespace ANOOSHEH_Library
         {
             services.AddRazorPages();
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ApplicationDbContext")));
+            services.AddControllersWithViews();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,14 +48,19 @@ namespace ANOOSHEH_Library
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+            
             app.UseRouting();
 
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+            //endpoints.MapControllerRoute(
+               // name: "default",
+
+               // pattern: "{controller=Home}/{action = Index}/{ Id}");
+
+               endpoints.MapRazorPages();
             });
         }
     }
